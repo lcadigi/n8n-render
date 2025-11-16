@@ -6,4 +6,3 @@ ENV N8N_HOST=0.0.0.0
 
 EXPOSE ${PORT}
 
-CMD ["n8n"]
